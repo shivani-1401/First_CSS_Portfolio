@@ -1,2 +1,4 @@
-# CSS_My_Site
-Created my first website using HTML and CSS
+# First_CSS_Portfolio
+
+Created my first portfolio website using HTML and CSS.
+Please refer screenshots for design layout.
